@@ -66,3 +66,43 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## First page of the site
+
+When you navigate to the site you wiil be direct here
+
+![Alt text](../src/Githubpic/Home-page.png?raw=true "HomePage")
+
+## Featured rooms
+
+# The next thing you will notice on the page is feature rooms >>
+This is where room that are highly prioritized and we need user to see them  first are displayed
+
+![Alt text](../src/Githubpic/featured-rooms.png?raw=true "Featured")
+
+
+# Press the rooms button on navigation Bar
+![Alt text](../src/Githubpic/Roombtn.png?raw=true "Button")
+This will direct you to the rooms page
+
+## The rooms page
+
+![Alt text](../src/Githubpic/Room-page.png?raw=true "Rooms")
+
+# All rooms available
+
+ All the rooms available are displayed in this page.
+ ![Alt text](../src/Githubpic/Displayed-rooms.png?raw=true "Rooms")
+
+
+# Filter rooms
+You can filter the rooms to fit the parameters you need
+![Alt text](../src/Githubpic/search-filter.png?raw=true "Search bar")
+
+
+#Click Individual rooom
+You  will be directed to a single room page
+![Alt text](../src/Githubpic/individual-room-page.png?raw=true "Single room")
+Each individual room has more deails about the room
+![Alt text](../src/Githubpic/more-detail-room.png?raw=true "details")
+
