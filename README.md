@@ -100,7 +100,7 @@ You can filter the rooms to fit the parameters you need
 ![Alt text](../src/Githubpic/search-filter.png?raw=true "Search bar")
 
 
-#Click Individual rooom
+# Click Individual rooom
 You  will be directed to a single room page
 ![Alt text](../src/Githubpic/individual-room-page.png?raw=true "Single room")
 Each individual room has more deails about the room
